@@ -1,0 +1,48 @@
+/*
+CTC Separate Stylesheet
+Updated: 2017-02-09 20:08:46
+*/
+
+h1, h2, h3, h4, h5, h6, ul, ol, dd, table, p, address, pre, hr {
+    font-family: 'Lato', sans-serif;
+}
+.button, input[type=submit], input[type=button], #submit {
+    background-color: #8854ae;
+}
+.button.read-more, input[type=submit].read-more, input[type=button].read-more, #submit.read-more {
+    background-color: #8854ae;
+    color: #faf4f4;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    font-family: 'Delius Swash Caps', cursive;
+}
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+.widget-title {
+    color: #690359;
+    font-family: 'Delius Swash Caps', cursive;
+    text-transform: lowercase;
+}
+.widget li {
+    font-family: 'Lato', sans-serif;
+}
+.site-header {
+    background-color: #43f104;
+}
+.site-title {
+    font-family: 'Lato', sans-serif;;
+}
+.main-navigation li:hover a {
+    color: #f2e10d;
+}
+.blog .entry-content, .search .entry-content, .archive .entry-content {
+    font-family: 'Lato', sans-serif;
+}
+.entry-title {
+    font-family: 'Delius Swash Caps', cursive;
+}
+h1.entry-title {
+    font-family: 'Delius Swash Caps', cursive;
+}
